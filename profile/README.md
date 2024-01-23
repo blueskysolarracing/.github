@@ -6,6 +6,7 @@ We developed various open-source programs and libraries that can be used by othe
 
 - [Revolution](https://github.com/blueskysolarracing/revolution): The software for the next generation electrical system for Blue Sky Solar Racing
 - [ICLib](https://github.com/blueskysolarracing/iclib): A collection of integrated circuit libraries in pure Python
+- [Door](https://github.com/blueskysolarracing/door): A comprehensive Python library for synchronization proxies
 - [NHD-C12864A1Z-FSW-FBW-HTT](https://github.com/blueskysolarracing/nhd-c12864a1z-fsw-fbw-htt): A Python driver for Newhaven Display Intl NHD-C12864A1Z-FSW-FBW-HTT COG (Chip-On-Glass) Liquid Crystal Display Module
 
 **GEN11**
